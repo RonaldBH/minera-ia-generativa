@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Archivos comprimidos
+*.rar
+*.zip
+
+# Dataset
+BASE DE DATOS/
+
+# Pesos
+PESOS DEL MODELO/
+
+# VS Code
+.vscode/
